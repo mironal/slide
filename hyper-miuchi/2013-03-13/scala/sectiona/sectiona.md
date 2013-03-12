@@ -10,6 +10,14 @@
 
 !SLIDE
 
+# Scalaをやる時はね…
+
+![foo](sectiona/Kodoku_01.jpg)
+
+ってことで始めまj
+
+!SLIDE
+
 # ぼく
 
 ## [@mironal -> 山口勝也](https://twitter.com/mironal)
@@ -33,6 +41,7 @@
 
 * 関数型言語以外の言語と比較するとパラダイムが違う。
 * 頭の体操 & 分かんなかったら質問して下さい
+
 
 !SLIDE
 
@@ -85,26 +94,28 @@ val i = 4 //これから(型推論)
 でも、実はこれ、静的型付けなんですよ！！！！
 
 ```
-変数の方を一意に決定できなければエラーを出す。
-そのため、エラーが出ないということは型を間違えているというバグが
-存在していないことが証明されるって事になるらしい。
+変数の方を一意に決定できなければコンパイル時にエラーを出す。
+なので、エラーが出ない ＝ 型を間違えているというバグが無い
+ということが証明されるって事になるらしい。
 ```
 !SLIDE
 
 ## Java vs Scala
 
+Javaをdisるぞー！
+
 ### Java
 ```java
-List<Integer> list = new List<Integer>();
-list.add(1);
-list.add(2);
-list.add(3);
+List<Integer> list = new List<Integer>(); //馬鹿なの?
+list.add(1); //長い
+list.add(2); //ダルい
+list.add(3); //無駄
 int one = list.get(0)
 ```
 
 ### Scala
 ```scala
-val list = List(1, 2, 3)
+val list = List(1, 2, 3) //スッキリ(≧∇≦)/
 val one = list(0)
 ```
 
@@ -114,10 +125,10 @@ val one = list(0)
 
 ### Java
 ```java
-Map<String, Integer> map = new HashMap<String, Integer>();
-map.put("one", 1);
-map.put("two", 2);
-map.put("three", 3);
+Map<String, Integer> map = new HashMap<String, Integer>(); //馬鹿なの？
+map.put("one", 1);   //長い
+map.put("two", 2);   //ダルい
+map.put("three", 3); //無駄
 int one = map.get("one");
 ```
 
@@ -126,6 +137,8 @@ int one = map.get("one");
 val map = Map(("one" -> 1), ("two" -> 2), ("three" -> 3))
 val one = map("one")
 ```
+<br />
+※Javaのダメさを強調したことをお詫び申し上げます.
 
 !SLIDE
 
@@ -179,9 +192,11 @@ scala> var bar = "barrrrrrrr"
 bar: String = barrrrrrrr
 ```
 
-valは**定数**でvarは**変数**です。通常は**val**を使用。通常は**val**を(ry
+valは定数でvarは変数です。通常はvalを使用。
 
-<br />
+# 通常はvalを(ry
+
+!SLIDE
 
 #### 試してみよう!
 

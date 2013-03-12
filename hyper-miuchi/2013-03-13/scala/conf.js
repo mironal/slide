@@ -1,5 +1,5 @@
 {
-  "title": "some show title",
+  "title": "Scala入門",
    "sections": [
     "sectiona"
   ]
