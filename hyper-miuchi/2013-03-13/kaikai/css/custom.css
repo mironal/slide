@@ -1,0 +1,78 @@
+div#kaisi {
+  font-size: 200px;
+}
+
+div#nanimonomo {
+    position: fixed;
+    padding-left:200px;
+    padding-top: 100px;
+  opacity: 0.9;
+}
+
+div#speed {
+  position: fixed;
+  padding-left: 900px;
+  padding-top: 50px;
+  opacity: 0.8;
+}
+
+div#sayonara {
+  position: fixed;
+  padding-left: 400px;
+  padding-top: 550px;
+  opacity: 0.9;
+}
+
+div#dram {
+  position: fixed;
+}
+
+#dram img {
+  width: 100%;
+}
+
+div#ore {
+  position: fixed;
+  padding-top: 400px;
+  padding-left: 840px;
+  opacity: 0.8;
+}
+
+#ore img {
+  width: 100%;
+}
+
+div#dj {
+  position: fixed;
+  padding-left: 20px;
+  padding-top: 350px;
+}
+
+#dj img {
+  width: 65%;
+}
+
+div#meigen {
+  position: fixed;
+}
+
+div#msg {
+  position: fixed;
+  padding-left: 250px;
+  padding-top: 320px;
+}
+
+#msg p {
+  background: wheat;
+  opacity: 0.8;
+}
+
+div#ieeee {
+  position: fixed;
+  padding-left: 350px;
+  padding-top: 130px;
+}
+
+#ieeee img {
+  width: 60%;
+}
