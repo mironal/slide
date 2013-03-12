@@ -14,7 +14,7 @@
 
 ![foo](sectiona/Kodoku_01.jpg)
 
-ってことで始めまj
+ってことで始めます[
 
 !SLIDE
 
