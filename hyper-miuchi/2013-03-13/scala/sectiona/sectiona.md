@@ -106,7 +106,7 @@ Javaをdisるぞー！
 
 ### Java
 ```java
-List<Integer> list = new List<Integer>(); //馬鹿なの?
+List<Integer> list = new ArrayList<Integer>(); //馬鹿なの?
 list.add(1); //長い
 list.add(2); //ダルい
 list.add(3); //無駄
