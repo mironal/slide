@@ -1,13 +1,20 @@
 !SLIDE
 
 <div>
-  <img src="sectiona/kore.png">
+  <img src="sectiona/kore.jpg">
 </div>
 
 !SLIDE
 
+# ハイパー身内勉強会
+
+
+## 第一回
+## 2013/03/13
+
+
 <div id="kaisi">
 <center>
-<p>開始</p>
+開始
 </center>
 </div>
