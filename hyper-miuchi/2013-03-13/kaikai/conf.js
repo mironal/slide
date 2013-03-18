@@ -1,7 +1,6 @@
 {
   "title": "Kaikai",
    "sections": [
-    "sectiona",
-    "sectionb"
+    "sectiona"
   ]
 }
