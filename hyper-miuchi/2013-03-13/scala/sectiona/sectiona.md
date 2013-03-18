@@ -12,7 +12,7 @@
 
 # Scalaをやる時はね…
 
-![foo](sectiona/Kodoku_01.jpg)
+![Scalaをやる時はね...画像](http://mironal.github.com/slides/2013-03-13/scala/sectiona/Kodoku_01.jpg)
 
 ってことで始めます
 
