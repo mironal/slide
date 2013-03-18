@@ -800,7 +800,7 @@ object SealedTraitSample extends App {
 もう一度以下のコマンドを実行
 
 ```sh
-scalac SealedTraitSample.scalk
+scalac SealedTraitSample.scala
 ```
 
 以下のエラーが出たかな？
