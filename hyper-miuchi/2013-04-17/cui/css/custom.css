@@ -18,10 +18,10 @@ pre, code {
   text-align: center;
 }
 
-span.red {
+p.red, span.red {
   color: red;
 }
 
-span.blue {
+p.blue, span.blue {
   color: blue;
 }
