@@ -42,7 +42,8 @@
 
 ## githubにslideをアップロードしてあるので、<span class="red">コピペで使って下さい</span>
 
-TODO:あとでURLを貼る
+
+# [SlideのURL](https://github.com/mironal/slide/blob/master/hyper-miuchi/2013-04-17/scala/sectiona/sectiona.md)
 
 !SLIDE
 
@@ -285,7 +286,7 @@ object ComplexNumbers {
 
 ## 実行
 
-書けたらComplex.scalaの有るディレクトリで以下のコマンドを実行.
+書けたら<span class="blue">Complex.scala</span>の在るディレクトリで以下のコマンドを実行.
 
 ```sh
 scalac Complex.scala
@@ -406,7 +407,7 @@ object ComplexNumbers {
 
 ## 実行
 
-書けたらComplex.scalaの有るディレクトリで以下のコマンドを実行.
+書けたら<span class="blue">Complex.scala</span>の在るディレクトリで以下のコマンドを実行.
 
 ```sh
 scalac Complex.scala
@@ -432,7 +433,7 @@ scala ComplexNumbers
 
 # ここからが<span class="blue">本当の</span><span class="red">Scalaだ！</span>
 
-![jigoku](sectiona/jigoku.jpg)
+![jigoku](https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/scala/sectiona/jigoku.jpg)
 
 !SLIDE
 
@@ -595,7 +596,7 @@ val c = Complex(1.2, 3.4)
 
 <br />
 
-![punpun](sectiona/punpunmaru.png)
+![punpun](https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/scala/sectiona/punpunmaru.png)
 
 
 !SLIDE
