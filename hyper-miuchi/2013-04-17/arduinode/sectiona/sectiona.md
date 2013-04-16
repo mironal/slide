@@ -3,9 +3,9 @@
 # arduinodeのご紹介
 
 
-<img src="sectiona/nodejs-dark.png">
+<img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/arduinode/sectiona/nodejs-dark.png">
 <span class="big">＋</span>
-<img src="sectiona/ArduinoUno_r2_front.jpg" width="300">
+<img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/arduinode/sectiona/ArduinoUno_r2_front.jpg" width="300">
 
 ### <span class="blue">Web</span>と<span class="red">ハードウェア</span>を繋げる
 
@@ -60,7 +60,7 @@ arduinodeは<span class="blue">Arduinoのプログラミングを不要</span>�
 
 # 構成
 
-<img src="sectiona/arduinode.png">
+<img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/arduinode/sectiona/arduinode.png">
 
 !SLIDE
 
@@ -122,7 +122,7 @@ open .
 
 <span class="blue">GeneralIoSerial.ino</span>を<span class="red">Arduino IDEで開いて書き込みボタンを押すだけ</span>(シリアルポートとボードの設定が最初に必要です)
 
-<img src="sectiona/arduino_ide.png">
+<img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/arduinode/sectiona/arduino_ide.png">
 
 !SLIDE
 
