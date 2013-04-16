@@ -141,7 +141,7 @@ npm install arduinode
 ## 4. 開発する
 
 ```js
-var Arduinode = require("../arduinode").Arduinode;
+var Arduinode = require("arduinode").Arduinode;
 var portName = "/dev/tty.usbmodem1411";
 
 var arduinode = new Arduinode(portName), function(err, reuslt){
