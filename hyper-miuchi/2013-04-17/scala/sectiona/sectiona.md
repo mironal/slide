@@ -33,7 +33,6 @@
 2. クラスとオブジェクト
 3. コンパニオンオブジェクト
 4. ケースクラス
-5. ケースクラスとパターンマッチ
 
 !SLIDE
 
@@ -43,7 +42,11 @@
 ## githubにslideをアップロードしてあるので、<span class="red">コピペで使って下さい</span>
 
 
-# [SlideのURL](https://github.com/mironal/slide/blob/master/hyper-miuchi/2013-04-17/scala/sectiona/sectiona.md)
+## [SlideのURL](https://github.com/mironal/slide/blob/master/hyper-miuchi/2013-04-17/scala/sectiona/sectiona.md)
+
+## https://github.com/mironal/slide/blob/master/hyper-miuchi/2013-04-17/scala/sectiona/sectiona.md
+
+twitterで流します
 
 !SLIDE
 
@@ -458,7 +461,7 @@ class Complex(real: Double, imaginary: Double) {
 
 !SLIDE
 
-# 倒すべき敵
+# 倒すべき<span class="red">敵</span>
 
 ## 1. newがメンドイ
 ## 2. アクセッサーの定義がメンドイ
@@ -542,7 +545,7 @@ val list = List.apply(1, 2, 3, 4)
 
 !SLIDE
 
-コンパニオンオブジェクト & applyメソッドは原則として<span class="blue">インスタンスを生成するためのファクトリメソッド</span>として使用します
+コンパニオンオブジェクト & applyメソッドは原則としてインスタンスを生成するための<span class="blue">ファクトリメソッド</span>として使用します
 
 ```scala
 // コンパニオンクラス
@@ -605,7 +608,7 @@ val c = Complex(1.2, 3.4)
 
 ## 1. <del>newがメンドイ</del> <small>(倒した)</small>
 ## 2. アクセッサーの定義がメンドイ
-## <span class="blue">3. コンパニオンオブジェクト書くのダルい</span>
+## <span class="red">3. コンパニオンオブジェクト書くのダルい</span>
 
 !SLIDE
 
@@ -706,7 +709,7 @@ case class Complex(r: Double, i: Double) {
 ## 2. <del>アクセッサーの定義がメンドイ</del>
 ## 3. <del>コンパニオンオブジェクト書くのダルい</del>
 
-# caseクラス 凄い！！
+# <span class="red">caseクラス 凄い！！</span>
 
 !SLIDE
 
