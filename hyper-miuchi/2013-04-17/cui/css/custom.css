@@ -19,9 +19,10 @@ pre, code {
 }
 
 p.red, span.red {
-  color: red;
+ color: #FF1385;
+
 }
 
 p.blue, span.blue {
-  color: blue;
+  color: #12A0FF;
 }

@@ -70,15 +70,17 @@ d: delete
 
 c: 削除して編集
 
+!SLIDE
+
 ## タグ以外にも色々操作できる
 
-di(
+<span class="blue">di(</span>
 で括弧の内側を削除
 
-di"
+<span class="blue">di"</span>
 でダブルコーテーションの内側を削除
 
-diw
+<span class="blue">diw</span>
 で単語を削除
 
 w:word
@@ -95,11 +97,11 @@ surround.vim
 
 デモします
 
-ysst
+<p class="blue">ysst</p>
 
-Shift + s
+<p class="blue">Shift + s</p>
 
-dst
+<p class="blue">dst</p>
 
 
 !SLIDE
