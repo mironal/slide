@@ -193,8 +193,8 @@ request(url, function(err, resp, body){
 
 # 実際に実行してみる
 
-1. request.jsを使わないバージョン
-2. request.jsを使ったバージョン
+1. request.jsを使わないコード
+2. request.jsを使ったコード
 3. 受け取った内容が同じ事を比較
 
 !SLIDE
@@ -356,8 +356,8 @@ request(url, function(err, resp, body){
 
 でわ、コーディング.
 
-1. hotentryとnewentryを取得してファイルに保存 <- ネスト地獄
-2. ネスト地獄を解消
+1. hotentryとnewentryを取得してファイルに保存 <- <span class="red">ネスト地獄</span>
+2. <span class="red">ネスト地獄</span>を解消
 
 
 !SLIDE
