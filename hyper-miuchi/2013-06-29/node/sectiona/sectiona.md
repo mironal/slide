@@ -83,19 +83,19 @@ javascriptを実行するためのプログラム(Platform)
 !SLIDE
 
 <center>
-  <img src="sectiona/npmjs.org.png">
+  <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-06-29/node/sectiona/npmjs.org.png">
 </center>
 
 !SLIDE
 
 <center>
-  <img src="sectiona/npmjs.org_allow.png">
+  <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-06-29/node/sectiona/npmjs.org_allow.png">
 </center>
 
 !SLIDE
 
 <center>
-  <img src="sectiona/kitakore.png" width="900px">
+  <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-06-29/node/sectiona/kitakore.png" width="900px">
 </center>
 
 ※説明の関係上アジェンダの順番は前後しています.
@@ -110,7 +110,7 @@ javascriptを実行するためのプログラム(Platform)
 
 <center>
   <p>ｳｴｰｨ</p>
-  <img src="sectiona/uei.png">
+  <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-06-29/node/sectiona/uei.png">
 </center>
 
 !SLIDE
@@ -232,7 +232,7 @@ Underscore is a utility-belt library for JavaScript that provides a lot of the <
 !SLIDE
 
 <center>
-  <img src="sectiona/trollface.jpg" width="600px">
+  <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-06-29/node/sectiona/trollface.jpg" width="600px">
 </center>
 
 !SLIDE
