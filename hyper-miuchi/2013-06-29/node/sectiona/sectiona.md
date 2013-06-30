@@ -372,3 +372,7 @@ request(url, function(err, resp, body){
 
 # おしまい
 
+## サンプルコード
+
+[https://github.com/mironal/slide/tree/master/hyper-miuchi/2013-06-29/node/sample](https://github.com/mironal/slide/tree/master/hyper-miuchi/2013-06-29/node/sample)
+
