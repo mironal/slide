@@ -93,7 +93,7 @@ Scalaを書くときはVimを使ってたから、当然の判断だった
 
 ## こんな画面になった
 
-<img src="sectiona/scala-vim.png">
+<img src="https://raw.github.com/mironal/slide/master/shinjuku-scala-za/2013-07-06/scala/sectiona/list.png">
 
 !SLIDE
 
