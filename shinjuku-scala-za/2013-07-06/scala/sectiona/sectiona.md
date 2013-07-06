@@ -21,7 +21,7 @@
 
 # 前回の確認
 
-<img class="border" src="sectiona/list.png">
+<img class="border" src="https://raw.github.com/mironal/slide/master/shinjuku-scala-za/2013-07-06/scala/sectiona/list.png">
 
 <br />
 
@@ -93,7 +93,7 @@ Scalaを書くときはVimを使ってたから、当然の判断だった
 
 ## こんな画面になった
 
-<img src="https://raw.github.com/mironal/slide/master/shinjuku-scala-za/2013-07-06/scala/sectiona/list.png">
+<img src="https://raw.github.com/mironal/slide/master/shinjuku-scala-za/2013-07-06/scala/sectiona/scala-vim.png">
 
 !SLIDE
 
