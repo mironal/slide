@@ -190,13 +190,13 @@ eclipse
 
 # 宣言元にジャンプすると...
 
-<img src="sectiona/code-jump.png">
+<img src="http://mironal.github.io/slides/2013-08-03/scala/sectiona/code-jump.png">
 
 !SLIDE
 
 # Oh... 読めない...
 
-<img src="sectiona/class-file.png">
+<img src="http://mironal.github.io/slides/2013-08-03/scala/sectiona/class-file.png">
 
 !SLIDE
 
@@ -222,7 +222,7 @@ with-source=trueでライブラリの<span class="red">ソースコードが関�
 # これで宣言元にジャンプできる
 
 
-<img src="sectiona/src-file.png">
+<img src="http://mironal.github.io/slides/2013-08-03/scala/sectiona/src-file.png">
 
 <br />
 
