@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="oheya.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4146"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path4152"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4140"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="552.69563"
+     inkscape:cy="399.77931"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580"
+       width="1049.3464"
+       height="424.26407"
+       x="1.4142135"
+       y="312.72849"
+       ry="6.4366751"
+       inkscape:export-filename="/Users/miro/Documents/slide/shinjuku-scala-za/2013-09-21/scala/sectiona/oheya.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5363"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Helvetica;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion5365"><rect
+           id="rect5367"
+           width="296.27774"
+           height="238.29498"
+           x="680.94385"
+           y="91.434921" /></flowRegion><flowPara
+         id="flowPara5369"></flowPara></flowRoot>    <g
+       id="g5523"
+       transform="matrix(1.1463209,0,0,1.1463209,-15.346274,-97.861346)"
+       inkscape:export-filename="/Users/miro/Documents/slide/shinjuku-scala-za/2013-09-21/scala/sectiona/oheya.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-12.727922,37.656854)"
+         id="g5495">
+        <g
+           id="g3845"
+           transform="translate(-34,133)">
+          <rect
+             ry="4.9196167"
+             y="471.94891"
+             x="65.293045"
+             height="51.702888"
+             width="163.76607"
+             id="rect2985"
+             style="fill:none;stroke:#000000;stroke-width:1.34105909;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3763"
+             y="511.85504"
+             x="77.87616"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+             xml:space="preserve"><tspan
+               y="511.85504"
+               x="77.87616"
+               id="tspan3765"
+               sodipodi:role="line">iPhone</tspan></text>
+        </g>
+        <g
+           id="g3872"
+           transform="translate(-47,-197)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.34105909;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none"
+             id="rect3863"
+             width="163.76607"
+             height="51.702888"
+             x="78.293045"
+             y="694.94891"
+             ry="4.9196167" />
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+             x="90.87616"
+             y="734.85504"
+             id="text3865"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3867"
+               x="90.87616"
+               y="734.85504">Mac</tspan></text>
+        </g>
+        <g
+           transform="translate(-47,-304)"
+           id="g3888">
+          <rect
+             ry="4.9196167"
+             y="694.94891"
+             x="78.293045"
+             height="51.702888"
+             width="163.76607"
+             id="rect3890"
+             style="fill:none;stroke:#000000;stroke-width:1.34105909;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3892"
+             y="734.85504"
+             x="90.87616"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+             xml:space="preserve"><tspan
+               y="734.85504"
+               x="90.87616"
+               id="tspan3894"
+               sodipodi:role="line">Mac</tspan></text>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3952"
+         d="M 192.59267,458.99992 339.3178,553.13199"
+         style="fill:none;stroke:#000000;stroke-width:7.39836216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.39836222, 22.19508667;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Mend)" />
+      <text
+         sodipodi:linespacing="89.999998%"
+         id="text5318"
+         y="409.24951"
+         x="203.98781"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="409.24951"
+           x="203.98781"
+           id="tspan5320"
+           sodipodi:role="line">Wifi</tspan><tspan
+           id="tspan5481"
+           y="445.24951"
+           x="203.98781"
+           sodipodi:role="line">(music &amp; video)</tspan></text>
+      <g
+         transform="translate(8,40)"
+         id="g5459">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.12329805;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none"
+           id="rect5334"
+           width="114.89948"
+           height="51.702888"
+           x="793.29303"
+           y="565.94891"
+           ry="4.9196167" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+           x="805.87616"
+           y="605.85504"
+           id="text5336"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5338"
+             x="805.87616"
+             y="605.85504">Amp</tspan></text>
+        <rect
+           ry="4.9196167"
+           y="428.94891"
+           x="793.29303"
+           height="51.702888"
+           width="114.89948"
+           id="rect5342"
+           style="fill:none;stroke:#000000;stroke-width:1.12329805;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5344"
+           y="468.85504"
+           x="805.87616"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+           xml:space="preserve"><tspan
+             y="468.85504"
+             x="805.87616"
+             id="tspan5346"
+             sodipodi:role="line">TV</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)"
+         d="m 655,555.20994 127,-54"
+         id="path5404"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5406"
+         d="m 655,572.36218 127,54"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         x="649.28241"
+         y="488.36218"
+         id="text5467"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5469"
+           x="649.28241"
+           y="488.36218">HDMI</tspan></text>
+      <text
+         sodipodi:linespacing="89.999998%"
+         id="text5471"
+         y="665.49243"
+         x="649.57538"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           id="tspan5475"
+           y="665.49243"
+           x="649.57538"
+           sodipodi:role="line">Phone </tspan><tspan
+           id="tspan5479"
+           y="701.49243"
+           x="649.57538"
+           sodipodi:role="line">plug</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6.77765656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.77765654, 20.33296962;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Mend)"
+         d="M 192.28232,666.78074 338.23551,587.3632"
+         id="path5509"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g5518">
+        <rect
+           ry="6.9730644"
+           y="528.15851"
+           x="359.50262"
+           height="73.283669"
+           width="271.83249"
+           id="rect3898"
+           style="fill:#ffffba;fill-opacity:1;stroke:#000000;stroke-width:2.05699325;stroke-linejoin:miter;stroke-miterlimit:85.69999695;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:48.41555786px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+           x="364.04117"
+           y="583.1897"
+           id="text5514"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5516"
+             x="364.04117"
+             y="583.1897">MacServer</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
