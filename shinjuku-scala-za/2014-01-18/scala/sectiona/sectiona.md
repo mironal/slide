@@ -107,7 +107,7 @@ Demo
 
 !SLIDE
 
-### search-feather
+### search-feather (<a href="https://gist.github.com/mironal/22acb387b24b3250ba07">gist</a>)
 
 <br />
 
