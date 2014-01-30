@@ -4,7 +4,7 @@
 
 <p class="right">Live Coding de Night #libcodingso</p>
 
-<img src="sectiona/ta-n.jpg">
+<img src="sectiona/ta-n.jpg" width="1100">
 
 !SLIDE
 
@@ -23,15 +23,15 @@ feather for Twitter
 !SLIDE
 
 <center>
-<img src="sectiona/1-Timeline.png" width="400">
-<img src="sectiona/画像付きTweet詳細表示画面.jpg" width="400">
+<img src="sectiona/1-Timeline.png" width="450">
+<img src="sectiona/画像付きTweet詳細表示画面.jpg" width="450">
 </center>
 
 !SLIDE
 
 ## [@mironal -> 山口勝也 (CIO)](https://twitter.com/mironal)
 
-<img src="http://mironal.github.io/images/twitter_icon.jpeg">
+<img src="http://mironal.github.io/images/twitter_icon.jpeg" width="300">
 
 <br />
 
@@ -72,7 +72,7 @@ feather for Twitter
 
 # レビューしてますか？
 
-<img src="sectiona/review.png" height="500">
+<img src="sectiona/review.png" height="600">
 
 !SLIDE
 
@@ -138,7 +138,6 @@ feather for Twitter
 
 - デザイン (UIものなら)
 
-↓
 
 - 開発 ← <span class="v-small">ここを詳しく説明</span>
 
@@ -152,7 +151,7 @@ feather for Twitter
 
 ## 弊社の Jenkins サーバ
 
-<img src="sectiona/server.jpg" width="800">
+<img src="sectiona/server.jpg" width="1000">
 
 !SLIDE
 
@@ -161,7 +160,7 @@ feather for Twitter
 ## <span class="red">それでは<span class="line-through">業務を</span>
 # <span class="red">ライブを開始します ヽ(•̀ω•́ )ゝ✧</span>
 
-<img src="sectiona/dev.jpg">
+<img src="sectiona/dev.jpg" width="700">
 
 !SLIDE
 
@@ -169,7 +168,7 @@ feather for Twitter
 
 ##  アプリ公開直後のことだった...
 
-<img src="sectiona/Timeline_v1.0.2.png">
+<img src="sectiona/Timeline_v1.0.2.png" width="500">
 
 !SLIDE
 
@@ -181,7 +180,7 @@ feather for Twitter
 
 # インラインプレビュー
 
-<img src="sectiona/inline.png">
+<img src="sectiona/inline.png" width="800">
 
 !SLIDE
 
@@ -189,7 +188,7 @@ feather for Twitter
 
 ## (っ'ヮ'c)
 
-<img src="sectiona/10.jpg">
+<img src="sectiona/10.jpg" width="1100">
 
 !SLIDE
 
@@ -197,7 +196,7 @@ feather for Twitter
 
 ## (⌯꒪͒ ૢ∀ ૢ꒪͒)
 
-<img src="sectiona/designer.jpg">
+<img src="sectiona/designer.jpg" width="800">
 
 !SLIDE
 
