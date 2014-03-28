@@ -1,5 +1,5 @@
 {
-  "title": "Scala入門2 : クラス",
+  "title": "arduinode",
    "sections": [
     "sectiona"
   ]

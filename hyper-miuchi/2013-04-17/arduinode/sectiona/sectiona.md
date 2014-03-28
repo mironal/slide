@@ -68,14 +68,14 @@ arduinodeは<span class="blue">Arduinoのプログラミングを不要</span>�
 
 arduinodeは以下の2つで構成されています
 
-## 1. GeneralIoSerial.ino
+## 1. arduinode.ino
 
 ## 2. arduinode.js
 
 
 !SLIDE
 
-# 1. GeneralIoSerial.ino
+# 1. arduinode.ino
 
 Arduinoのプログラム
 
@@ -108,19 +108,19 @@ npm install arduinode
 ## まずはリポジトリのクローン
 
 ```sh
-git clone https://github.com/mironal/Node-Arduino-General-IO.git
-```
+git clone https://github.com/mironal/arduinode.git
+``
 
 !SLIDE
 
 ## 2. Arduinoに書き込む
 
 ```sh
-cd Node-Arduino-General-IO/arduino/GeneralIoSerial
+cd sketch/arduinode/arduinode.ino
 open .
 ```
 
-<span class="blue">GeneralIoSerial.ino</span>を<span class="red">Arduino IDEで開いて書き込みボタンを押すだけ</span>(シリアルポートとボードの設定が最初に必要です)
+<span class="blue">arduinodeinok</span>を<span class="red">Arduino IDEで開いて書き込みボタンを押すだけ</span>(シリアルポートとボードの設定が最初に必要です)
 
 <img src="https://raw.github.com/mironal/slide/master/hyper-miuchi/2013-04-17/arduinode/sectiona/arduino_ide.png">
 
