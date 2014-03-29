@@ -1,0 +1,45 @@
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+pre, code {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#masaka {
+  font-size: 100px;
+  text-align: center;
+}
+
+p.red,span.red {
+ color: #FF1385;
+
+}
+
+p.blue,span.blue {
+  color: #12A0FF;
+}
+
+p.right, span.right {
+  text-align: right;
+}
+
+span.line-through {
+  text-decoration:line-through;
+}
+
+span.v-small {
+  font-size: 0.6em;
+}
+
+img.border {
+  border: 2px #dddddd solid;
+}
+
