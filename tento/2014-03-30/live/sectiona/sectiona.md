@@ -1,7 +1,7 @@
 !SLIDE
 
 ## Arduino + 温度センサー で
-## 温度計表示 Webサービスを作ろう！
+## 温度表示 Webサービスを作ろう！
 
 <br />
 
@@ -21,13 +21,17 @@
 
 # お仕事
 
+- プログラムを作るお仕事をしています ₍₍ (ง ˙ω˙)ว ⁾⁾
 - <span class="blue">合同会社コベリン</span>という会社を友人とつくった
-- プログラムを作る会社です ₍₍ (ง ˙ω˙)ว ⁾⁾
-
 
 !SLIDE
 
-## 今は iPhone の Twitter クライアントを作っています
+## 今は iPhone の Twitter アプリを作っています
+
+<br />
+
+## <p class="blue">feather for Twitter</p>
+
 
 <img src="sectiona/feather.JPG" width="300">
 
@@ -35,12 +39,16 @@
 
 ## 今日作るもの (っ＞ω＜c)
 
+## <span class="blue">Arduino</span> + <span class="blue">温度センサー</span> で
+## 温度を表示する Webサービス
+
 <img src="sectiona/kouseizu.png" width="400">
 
 !SLIDE
 
 ## Arduino (　◔ิω◔ิ) ？
 
+- 読み方は、「アルデュイーノ」
 - 簡単に<span class="blue">"ものづくり"</span>するためのコンピュータ
 - LEDを光らせたり、モータを動かしたり...
 - 安い！！ 3000円ぐらい
@@ -52,6 +60,7 @@
 ## サーバ ( ･´ｰ･｀) ？
 
 - ほしい物をくれるコンピュータ
+- ちょっとすごいパソコン
 - Google のページもサーバからもらえる
 - でも、なんでもくれるわけではない (´ . .̫ .\`)
 
