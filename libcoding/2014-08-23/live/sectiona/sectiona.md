@@ -27,17 +27,17 @@ Swift じゃなくてごめんよ...
 
 !SLIDE
 
-## ドールおじさん (無害
+## 普段は -> ドールおじさん (無害
 
 <img src="sectiona/tether1000.jpg" width="600">
 
 
 !SLIDE
 
-## Twitter クライアントを作ってる
-## 会社をやってます
+## お仕事 -> 合同会社コベリン
 
-### <span class="blue">feather for Twitter</span>
+### <span class="blue">feather for Twitter</span> という
+### iPhone 向けツイッタークライアントを作っています
 
 <img src="sectiona/feather.JPG" width="300">
 
